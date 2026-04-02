@@ -1,5 +1,5 @@
 Local AI ChatBot
-Where: MCS 101
-When: 4pm
+Where: MCS 100
+When: April 9th, 4pm
 
 Join us and learn how you can reduce the power and water consumption crisis caused by AI data centers by hosting an AI on your own device
